@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\examin2\examin2\bin\Debug\net10.0\examin2.exe
+C:\Users\HP\Desktop\examin2\examin2\bin\Debug\net10.0\examin2.deps.json
+C:\Users\HP\Desktop\examin2\examin2\bin\Debug\net10.0\examin2.runtimeconfig.json
+C:\Users\HP\Desktop\examin2\examin2\bin\Debug\net10.0\examin2.dll
+C:\Users\HP\Desktop\examin2\examin2\bin\Debug\net10.0\examin2.pdb
+C:\Users\HP\Desktop\examin2\examin2\obj\Debug\net10.0\examin2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\examin2\examin2\obj\Debug\net10.0\examin2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\examin2\examin2\obj\Debug\net10.0\examin2.AssemblyInfo.cs
+C:\Users\HP\Desktop\examin2\examin2\obj\Debug\net10.0\examin2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\examin2\examin2\obj\Debug\net10.0\examin2.dll
+C:\Users\HP\Desktop\examin2\examin2\obj\Debug\net10.0\refint\examin2.dll
+C:\Users\HP\Desktop\examin2\examin2\obj\Debug\net10.0\examin2.pdb
+C:\Users\HP\Desktop\examin2\examin2\obj\Debug\net10.0\examin2.genruntimeconfig.cache
+C:\Users\HP\Desktop\examin2\examin2\obj\Debug\net10.0\ref\examin2.dll
